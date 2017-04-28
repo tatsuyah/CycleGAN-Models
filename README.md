@@ -36,4 +36,4 @@ DATA_ROOT=/path/to/data/ name=model_dir th train.lua
 
 ## License
 
-MIT @ [Tatsuya Hatanaka](https://github.com/tatsuyah)
+MIT © [Tatsuya Hatanaka](https://github.com/tatsuyah)
