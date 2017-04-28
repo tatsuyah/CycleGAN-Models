@@ -33,3 +33,7 @@ DATA_ROOT=/path/to/data/ name=model_dir th train.lua
   year={2017}
 }
 ```
+
+## License
+
+MIT @ [Tatsuya Hatanaka](https://github.com/tatsuyah)
