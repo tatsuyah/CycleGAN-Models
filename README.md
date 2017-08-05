@@ -13,6 +13,11 @@ This translates bear to panda in image.
 ![screenshot](https://github.com/tatsuyah/CycleGAN-Models/blob/master/images/bear2panda/bear2panda-5.png)
 ![screenshot](https://github.com/tatsuyah/CycleGAN-Models/blob/master/images/bear2panda/bear2panda-6.png)
 
+## men2spock
+
+Original             |  Transfiguration
+:-------------------------:|:-------------------------:
+![](https://github.com/tatsuyah/CycleGAN-Models/blob/master/images/men2spock/men2spock-1-original.png)  |  ![](https://github.com/tatsuyah/CycleGAN-Models/blob/master/images/men2spock/men2spock-1-transformed.png)
 
 ## Prerequisits
  * CycleGAN (See the [README](https://github.com/junyanz/CycleGAN) for installation)
