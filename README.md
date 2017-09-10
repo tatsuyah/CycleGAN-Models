@@ -24,7 +24,7 @@ Original             |  Transfiguration
 
 ## Usage
 ```
-mv ./model_dir/ path/to/models_dir/
+mv ./CycleGAN-Models/models/bear2panda/latest_net_G_A.t7 path/to/models_dir/
 cd path/to/cyclegan-root/
 DATA_ROOT=/path/to/data/ name=model_dir th train.lua
 ```
